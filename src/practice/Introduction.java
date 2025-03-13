@@ -8,6 +8,7 @@ public class Introduction {
 		// TODO Auto-generated method stub
 		
 		ChromeDriver driver = new ChromeDriver();
+		System.out.println("This is newly added");
 
 	}
 
